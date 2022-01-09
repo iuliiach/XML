@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<skills>
+	<skill_1>QA theory</skill_1>
+	<skill_2>Basics of Linux</skill_2>
+	<skill_3>GitHub</skill_3>
+	<skill_4>Client-Server Model</skill_4>
+	<skil_5>API testing, Postman</skill_5>
+	<skill_6>Basics of SQL, Postgres, Redis</skill_6>
+	<skill_7>DevTools</skill_7>
+	<skill_8>Mobile Testing</skill_8>
+	<skil_9>Python</skill_9>
+	<skill_10>Job interviews</skill_10>
+	<skill_11>Soft skills</skill_11>
+	<skill_12>loads of other useful things</skill_12>
+</skills>
