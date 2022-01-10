@@ -1,1 +1,14 @@
-
+<?xml version = "1.0"?>
+  <bug_report>
+    <Bug_ID>111</Bug_ID>
+    <Bug_Name>test name</Bug_Name>
+    <Severity>any severity</Severity>
+    <Priority>any priority</Priority>
+    <Description>any description of a bug</Description>
+    <Steps_To_Reproduce>some steps to reproduce a bug</Steps_To_Reproduce>
+    <Actual_result>actual behaviour of an application</Actual_result>
+    <Expected_result>expected behaviour of an application</Expected_result>
+    <Screenshots>proofs</Screenshots>
+    <Environment>OS and browser configuration</Environment>
+    <Author>who found and reported this bug</Author>
+</bug_report>
