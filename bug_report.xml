@@ -8,7 +8,7 @@
     <Steps_To_Reproduce>some steps to reproduce a bug</Steps_To_Reproduce>
     <Actual_result>actual behaviour of an application</Actual_result>
     <Expected_result>expected behaviour of an application</Expected_result>
-    <Screenshots>proofs</Screenshots>
+    <Attachments>proofs</Attachments>
     <Environment>OS and browser configuration</Environment>
     <Author>who found and reported this bug</Author>
 </bug_report>
